@@ -1,0 +1,2 @@
+/localhost/operator/ksk-1524599487505 /root/.ndn/ndnsec-tpm-file/M+I0xqOCn8tBht4i9T5OYYgb7pY8jE71ffqef5VMVS0=
+/test/identity/ksk-1524599613456 /root/.ndn/ndnsec-tpm-file/0qNc+JhchyL4+yyKkz%2TzMoUYDHT5Ly8+4lVLMIpgA=
